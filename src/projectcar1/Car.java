@@ -24,9 +24,9 @@ public class Car {
     }
 
     // конструктор з двома параметрами
-    public Car(int year, String colour) {
+    public Car(int year, String color) {
         this.year = year;
-        this.color = colour;
+        this.color = color;
     }
 
     public String toString() {
